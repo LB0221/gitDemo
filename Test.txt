@@ -18,3 +18,4 @@ Creating a new branch is quick
 创建一个新的分支
 Creating a new branch is quick and simple.
 创建一个新的分支
+语言 设置 工具 宏
