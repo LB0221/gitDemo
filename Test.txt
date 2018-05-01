@@ -32,3 +32,5 @@ Creating a new branch is quick
 创建一个新的分支
 文件 编辑 搜索 视图 编码
 语言 设置 工具
+Git is free software distributed under the GPL.
+Creating a new branch is quick
